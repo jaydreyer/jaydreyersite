@@ -1,0 +1,18 @@
+---
+layout: post
+title: Ubuntu 5.10 - Breezy Badger Released
+tags: []
+---
+!{float:right; margin:4px;}/images/15.png (Ubuntu Logo)!
+
+I'm pretty late on this - I think the "5.10 update to Ubuntu":http://www.ubuntulinux.com was released some time in October. I just found out about it Sunday night.
+
+If you're wondering what in the world I'm talking about, Ubuntu is a distribution of Linux geared more toward the home user rather than big time tech geeks. If you were ever thinking of looking into Linux or trying it out, I highly recommend taking a look at Ubuntu, especially the new 5.10 release.
+
+I'm running it on an old Dell Inspiron 4100 laptop from 2001. The install was a piece of cake - just stick the cd into the drive, turn on the pc and watch it go. A word of caution, however, the install *will* wipe out your entire hard drive so make sure you back things up before you begin.
+
+The distribution comes with the usual suspects as far as open source software goes. OpenOffice2 (a replacement for MS Office), Gimp (a great graphics editing program), Firefox, etc. Ubuntu includes the Synaptic Package Manager to make installation of new packagaes a, well, snap. There are also tons of add-on packages you can find if you look around enough. I found one called network-manager that makes it easy to switch between wired and wireless network connections, depending on what is currently available.
+
+It took me some time to get my wireless card working, but other than that it was pretty easy. It helps if you know some Linux basics, but it's not completely necessary. There is a lot of help available on-line and Ubuntu has a very newbie friendly community available.
+
+Best part is, it's all free. Enjoy!

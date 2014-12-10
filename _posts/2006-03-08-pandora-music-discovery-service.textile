@@ -1,0 +1,16 @@
+---
+layout: post
+title: Pandora - Music Discovery Service
+tags: []
+---
+!{float:right; margin:4px;}/images/37.gif (Pandora logo)!
+
+If you're into music but you're having a hard time finding something new to listen to, I've got the perfect solution: "Pandora":http://www.pandora.com/.
+
+It's a pretty neat system. You type in an artist or a song that you like, then Pandora goes to work and plays songs that are similar to what you typed in. How do they know what songs to play? Well, Pandora is based on something called the "Music Genome Project":http://www.pandora.com/mgp.shtml. From what I understand, this group has spent countless hours breaking down music into very discrete categories. To give you an example, I created a station based on A.C. Newman (the lead singer for the New Pornographers). Pandora started playing music from Yo La Tengo, Sugar, Spitalfield and many others. One artist they played was Buffalo Tom. There is a link you can click that basically explains why they are playing a song. When I click it, it tells me "Based on what you've told us so far, we're playing this track because it features electric rock instrumentation, a subtle use of vocal harmony, major key tonality, heavy electric rhythm guitars and many other similarities identified in the music genome project." Who knew? I don't know what half of that means but it does a pretty good job of playing things that I like.
+
+As songs play, you can give them the thumbs up or thumbs down. The system will then modify future songs to be played based on your input. You can create multiple "stations" based on the type of music you want to listen to. Because you create an account (which is free, btw), all of your stations are saved and can be used on any computer.
+
+The really cool thing for me is that you can use Pandora in conjunction with a "Squeezebox":http://www.slimdevices.com/index.html player. So, I can create a station and access it through my Squeezebox, thus creating my own personal radio station. Pretty neat.
+
+As I said earlier, you can use it for free, but it sounds like advertising is coming soon. Not a big deal, really. You can also subscribe to it for a pretty low price - I think $36/year or something like that. It's worth checking out.

@@ -1,0 +1,11 @@
+---
+layout: post
+title: Here is another post
+tags: []
+---
+This is to test out what happens when I make two posts on the same day. Something unlikely to happen in real life but who knows?
+
+Here is a space followed by a link to <a href="http://espn.go.com">ESPN</a>.
+
+
+More space...

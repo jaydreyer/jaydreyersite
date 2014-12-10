@@ -1,0 +1,6 @@
+---
+layout: post
+title: NASA's Woes
+tags: []
+---
+"Interesting article in Wired magazine":http://www.wired.com/science/space/magazine/15-06/ff_space_nasa this month by Gregg Easterbrook outlining some of the problems with the current state of NASA. I'm a bit of a space geek, and I'm all for NASA, but you have to question their priorities and how they spend our tax dollars. It's a short read and worth a look.

@@ -1,0 +1,6 @@
+---
+layout: post
+title: TextPattern 1.0rc4
+tags: []
+---
+Well, Dean and the gang have released the "latest update to textPattern, rc4":http://textpattern.com/deanload/. I installed the new version in about 5 minutes. The only problem I encountered was an extra <code><br /></code> tag being inserted after each of my links in the sidebar. I fixed the problem and that was it. No problems with the plug-ins I'm currently using or anything else. All in all it was a painless procedure.

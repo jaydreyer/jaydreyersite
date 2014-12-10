@@ -1,0 +1,8 @@
+---
+layout: post
+title: Amazon Reviews
+tags: []
+---
+This is hilarious. Go to Amazon and search for "Tuscan Whole Milk". Then, sit back, read the reviews, and prepare to laugh.
+
+"Here is the link in case you can't search...":http://www.amazon.com/gp/product/customer-reviews/B00032G1S0/ref=cm_cr_dp_2_1/104-8647086-5081565?ie=UTF8&customer-reviews.sort%5Fby=-SubmissionDate&n=3370831

@@ -1,0 +1,22 @@
+---
+layout: post
+title: About...
+tags: []
+---
+h3. Who
+
+I live in Plymouth, MN, just outside of Minneapolis, MN. I currently work for the .com arm of a very large retail company headquartered in Minneapolis. They have a bullseye for a logo. Figure it out.
+
+I attended the "University of Michigan":http://www.umich.edu in Ann Arbor where I received a BA in History. Obviously, the logical next step was a career in IT. The majority of my work has centered on web based application development. All of it has been internal work so I can't link you to anything cool. ASP and ASP.net are my primary languages, but lately I have been getting into the LAMP world. I am also into information architecture, web-design, CSS, and XHTML. In April 2005 I received my MBA from the University of Michigan (actually, the "Ross School of Business":http://bus.umich.edu).
+
+I am married and have 3 year old son and a newborn daughter. When I'm not working on web sites, or this site, I'm in my woodworking workshop (aka, the garage), cooking, reading, watching movies or playing with my son. I am a big sports fan, particularly UM football and basketball, the Tigers, Lions, Pistons and Red Wings.
+
+If you want, you can "send me an email":/contact.
+
+h3. Why
+
+Why do a blog? Why be the 1,000,000th person to waste time posting about things that most normal people couldn't care less about? Why not? I thought this would be a good way to learn more about technologies that were outside of my comfort zone. I've learned a great deal about Linux, mySQL, Apache and open source software alternatives in the past couple months. I love to learn and this has been a fantastic learning experience. If I provide some entertainment, humor, or solutions for people, even better. And if you click some of those Google ad links, this can even be profitable!  ;-)
+
+h3. How
+
+This site was developed using "textPattern":http://www.textpattern.com, a fantastic (and free) piece of software. I highly recommend it if you are thinking about starting your own blog, or even if you are looking for a good content management system. The site uses mySQL as the backend. It is hosted at "site5.com":http://www.site5.com/affiliates/idevaffiliate.php?id=626, where I host a number of different sites for friends and family. 

@@ -1,0 +1,12 @@
+---
+layout: post
+title: Odds and Ends...
+tags: []
+---
+I've discovered a few tools that I like and thought I'd share them with you. Most of these aren't Earth shattering and are probably old news to most, but you never know...
+
+"NewsGator":http://www.newsgator.com/ is a decent rss-aggregator (get it?). If you're not familiar with what this is, an rss-aggreagtor goes out and collects snippets from whatever sites you want (provided they have a feed) and presents them all on one page. It's a handy way to keep up with new content from various web sites without having to revist them multiple times a day. So, my page has feeds from espn, cnn, national review, freakonomics, signal vs. noise, cnet and others. I refresh the page and I can see what's new in an instant. 
+
+"del.icio.us":http://del.icio.us/ is a neat tool that allows you to collect and organize bookmarks from around the web. How is this different than the bookmarks functionality in your browser? Well, del.icio.us is on-line, so you can access your bookmarks from anywhere. Also, it has a feature where you can assign keywords to your bookmarks to help organize them. Another thing is that it will add some buttons in your browser's toolbar so that when you want to bookmark a particular page, you just push the button, enter some descriptive text, and you're finished. If you run your own web site, you can send out your bookmarks as a rss feed (this is what I do with the links on my "links":http://www.jaydreyer.com/links page).
+
+"BlinkSale":http://www.blinksale.com/ looks like a good way to deal with invoicing customers, if you're into that type of thing. I run a very, very small web design business on the side and finding a good way to invoice customers is a challenge. "Paypal":http://www.paypal.com has new invoicing functionality that is decent, but not very flexible. BlinkSale is much more flexible, but it can also cost more, depending on how many invoices you plan to send out per month. There is a free version that I'll try out soon.

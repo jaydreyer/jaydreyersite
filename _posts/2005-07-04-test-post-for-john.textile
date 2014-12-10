@@ -1,0 +1,6 @@
+---
+layout: post
+title: Test post for John
+tags: []
+---
+This is an example of an automated content update system.

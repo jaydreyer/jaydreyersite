@@ -1,0 +1,10 @@
+---
+layout: post
+title: Changes...
+tags: []
+---
+You might notice things look a little different here at the site. For one, I finally decided to do a link check and found out a lot of the images of the template I'm using were not being found. So, the banner looks a little different, and there are some rounded corners here and there.
+
+!{float:right; margin:4px;}/images/14.gif (Published with Textpattern Logo)!
+
+Also, I updated the site to "Textpattern 4.0.2":http://www.textpattern.com last night. I had a few scares with some broken links and old plug-ins, but recovered quickly and now everything works. I'm not really sure what 4.0.2 offers. I think I've seen some things about comments. 4.0.2 also handles 401 errors much better than the old system. Now you'll see an error page. Just have to figure out how to customize it. Hopefully by having the 401 pages, I'll be able to get rid of some of the old links that "Google":http://www.google.com, "Yahoo":http://www.yahoo.com and "MSN":http://www.msn.com think are on the site. Right now when I run a "site:jaydreyer.com":http://www.google.com/search?hl=en&lr=&rls=GGGL%2CGGGL%3A2005-09%2CGGGL%3Aen&q=site%3Awww.jaydreyer.com&btnG=Search  at Google, a lot of my pages are not showing up. Hopefully this combined with some work using "Google Site Maps":https://www.google.com/webmasters/sitemaps will help take care of that problem.

@@ -1,0 +1,14 @@
+---
+layout: post
+title: Jinzora - Web-based mp3 Jukebox
+tags: []
+---
+I've been playing around with a program called "Jinzora":http://www.jinzora.com. You can check out a demo at their web site, but it's basically a way to stream out your music collection over the internet or your home network or a CMS, or all of the above. I was looking for a different way to do this than by using MusicMatch, which is a cool program but it doesn't run on Linux and I have to worry about licensing stuff that I don't have time for. It installed fairly easily and I had it up and running on my debian server in no time.
+
+Just goofing around at work I tried to see if I could hit the site from here and I could. So, I've been listening to my music today. Not sure how the bandwidth police would feel about that but I did increase the compression so hopefully it hasn't been too bad.
+
+There are a few things I'm not too crazy about - I don't know how to edit artist's names, nor do I see an easy way to categorize things, but all in all, it's a neat program. I'm still in the early stages of playing around with this but so far I think it will work. My biggest problem, as mentioned earlier, is dealing with all of my wma files. Linux doesn't seem to like them so I can only listen to tunes on a Windows PC at the moment.
+
+I did check out a few other programs, most notably "slimserver":http://www.slimdevices.com/su_downloads.html, but I didn't fool around with it too much. I think there were a few dependencies I didn't set up or something. Basically, if I have to compile anything, I'm hosed because I haven't mastered that yet.
+
+If you have any suggestions for good alternatives to Jinzora or slimserver, let me know.

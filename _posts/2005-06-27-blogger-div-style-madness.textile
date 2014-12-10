@@ -1,0 +1,11 @@
+---
+layout: post
+title: Blogger div style madness
+tags: []
+---
+If you're one of my regular 3 readers, you've noticed that the formatting looks horrible...at least a little worse than normal. It looks like Blogger is inserting this goofy <code><style="clear: both></code> tag in there that is messing up my formatting. It's not just me, it appears that a lot of people have been affected by this.
+
+It looks like Blogger is finally recognizing the problem and is attributing it to a side-effect of the new Blogger images upgrade. You can read more at <a href="http://status.blogger.com/">Blogger's status page</a>.
+
+***Update***
+Blogger has finally fixed the formatting problem they caused when they added support for images. Now the problems with my site (and there are many...) are solely my own!

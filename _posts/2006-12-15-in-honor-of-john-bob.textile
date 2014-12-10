@@ -1,0 +1,7 @@
+---
+layout: post
+title: In honor of John Bob...
+tags: []
+---
+...Who is a good doctor, I present someone who is a bad doctor. A very bad doctor. YouTube rules my life.
+ <object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/oEWI8-yfSdM"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/oEWI8-yfSdM" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>

@@ -1,0 +1,10 @@
+---
+layout: post
+title: Video Card Death
+tags: []
+---
+I went to hop on my PC the other day and my monitor was severely messed up. Extreme horizontal ghosting made the screen close to unviewable. I haven't had my Dell 19" flat screen for very long so I didn't think that could be the problem. I played around with my KVM switch, swapped some cables, tried it on another pc, etc. The monitor was fine, the KVM cables weren't causing the problem. It had to be my nVidia GForce2 Pro card that I've had since 2 computers ago.
+
+So, it was off to the store to find a new one. Problem is, I haven't thought about video cards for years. I basically stopped playing games when I went back to school. Then, with the addition of Jack, there just wasn't any time. My knowledge of video cards, therefore, is extremely limited. My requirements were pretty simple - something decent but not on the cutting edge. As I said, I don't play games so framerates at insane resolutions won't help me much. About the biggest things I get into are playing around with <a href="http://www.sketchup.com">SketchUp</a> (which is an amazing program, by the way) or using Macromedia Fireworks. I was pretty sure I wanted the nVidia Geforce 6600 GT (I think that's it) but that ended up being a little too much. The guy at the store ended up talking me into an ATI Radeon x700 something or other. So far, it's working great. I fired up SketchUp and was amazed at how smoothly things worked and how adding back layers had no effect on speed.
+
+I have no idea if this is a great card of not. I looked around on <a href="http://www.cnet.com">Cnet</a> a little bit last week but don't remember anything about the one I ended up getting. Most of the reviews seemed to be written for serious gamers, anyway. Whatever. So far, so good.

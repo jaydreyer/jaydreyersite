@@ -1,0 +1,30 @@
+---
+layout: post
+title: Firefox 1.5 Released
+tags: []
+---
+!{float:right; margin:4px;}/images/17.png (Firefox Logo)!
+
+How am I missing all of these things? Mozilla just released a new version of their Firefox browser - version 1.5. You can download the latest from "Mozilla.com":http://www.mozilla.com, which I guess is the replacement site for "Mozilla.org":http://www.mozilla.org.
+
+I just downloaded the new version today and have only played with it for a few hours so far. There are two features that stand out. First, the browser seems to be a bit faster when surfing. The back button seems more responsive and the pages appear to render quicker. I don't know if this is true or if I am just imagining it. The second feature, and the one I really like, is the ability to drag-and-drop tabs. I can get really anal when it comes to where my tabs are positioned within Firefox. When I accidentally close one, I end up closing them all and starting over. Don't ask. Now, I can just open a new tab and drag it to wherever I want it.  Very cool. I wish Microsoft would let me do this with the Taskbar.
+
+If you do make the switch from 1.07 to 1.5, be aware that not all of your extensions will work with the new version. I'm a big fan of the SessionSaver and ReloadEvery extensions and neither worked when I upgraded. There is a workaround, however:
+# In the location bar, type in: about:config. Press Enter. You'll see a screen with a bunch of config info.
+# Right-click on the list, select New > String
+# Enter â€œapp.extensions.versionâ€ (without quotes) for the preference name.
+# Enter â€œ1.0â€ (without quotes) as the value for app.extensions.version.
+# Restart Firefox 1.5
+# Click "Tools" then "Extensions". The extensions that are disabled will be slightly faded out.
+# Right click on each disabled extension and select "Enable"
+# Restart Firefox 1.5 again to activate the extensions. 
+
+That should do it. At least it worked for me. I guess there are some errors with some of the extensions so this may cause problems with 1.5. If you run into any problems caused by enabling an extension, just disable it.
+
+I modified the above instructions, which were taken from "LifeHacker.com":http://www.lifehacker.com/software/firefox/make-extensions-work-in-firefox-15-136993.php
+
+*Update*
+After further review, I don't think SessionSaver is working yet with 1.5. I get the same number of tabs to appear when I restart it, but none of the pages load. I'll have to keep looking into this.
+
+*Update #2*
+I found a "newer version of SessionSaver":http://adblock.ethereal.net/alchemy.cgi/SessionSaver/ that is supposed to work with Firefox 1.5. It seems to work just fine.

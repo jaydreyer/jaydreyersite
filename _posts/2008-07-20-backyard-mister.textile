@@ -1,0 +1,16 @@
+---
+layout: post
+title: Backyard Mister
+tags: []
+---
+<div style="float: right; margin-left: 10px; margin-bottom: 10px;">
+ <a href="http://www.flickr.com/photos/jaydreyer/2686008174/" title="photo sharing"><img src="http://farm4.static.flickr.com/3070/2686008174_2be00fe641_m.jpg" alt="" style="border: solid 2px #000000;" /></a>
+ <br />
+ <span style="font-size: 0.9em; margin-top: 0px;">
+  <a href="http://www.flickr.com/photos/jaydreyer/2686008174/">Backyard Mister</a>
+  <br />
+  Originally uploaded by <a href="http://www.flickr.com/people/jaydreyer/">JayDreyer</a>.
+ </span>
+ </div>
+I made this for the kids yesterday based on some instructions from www.instructables.com. It cost less than $20 and the kids love it. It's just PVC glued together with these mister jets that you can get at Lowes. Jack helped me put it together, and the kids are thoroughly testing it as I type this.
+  <br clear="all" />

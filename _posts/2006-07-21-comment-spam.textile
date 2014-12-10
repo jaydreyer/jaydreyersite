@@ -1,0 +1,6 @@
+---
+layout: post
+title: Comment Spam
+tags: []
+---
+I must be getting popular because the spam bots are attacking my site and leaving stupid comments about all things spamish. I knock them out as soon as they post but you'll probably see a few here and there before I get to delete them.

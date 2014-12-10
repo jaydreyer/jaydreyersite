@@ -1,0 +1,6 @@
+---
+layout: post
+title: TextPattern 1.0rc5
+tags: []
+---
+Ummm...Dean and company must be hooked up to a caffeine iv or something because rc5 was released today. There are "a lot of new features":http://forum.textpattern.com/viewtopic.php?id=9986, which I find pretty amazing since rc4 was released just a few days ago. I've installed it here, but haven't had time to check out the new features. Actually, I didn't have time to check out the new rc4 features. Does this mean rc6 will be released on Friday?

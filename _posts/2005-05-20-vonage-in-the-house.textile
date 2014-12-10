@@ -1,0 +1,10 @@
+---
+layout: post
+title: Vonage in the house
+tags: []
+---
+We finally decided to ditch the phone company and go with a voip solution at our home. After doing some research, I decided to give <a href="http://www.vonage.com/">Vonage</a> a shot. I went to Best Buy and picked up one of the Linksys/Vonage routers with 2 phone ports on the back and sent in my rebate forms which pretty much covered the cost of the router. After connecting the Vonage router to my Linksys wireless router, I plugged a phone in and was in business.
+
+Or so I thought. One of the neat things about Vonage is that you can keep your current phone number and transfer it to Vonage. This was a big selling point to me because I didn't want to deal with the hassle of telling everyone our new number. Vonage has a fairly simple form you fill out and fax in to them to initiate the process. This is where I ran into trouble, however. The process is supposed to take about 20 business days, but it ended up taking me about 3 months to complete the changeover. One time they said they didn't receive my fax. Another time they said the account names didn't match. The third time I think they just plain forgot about it. So I faxed it in a fourth time and things finally went through. I plugged a phone cable from the router into an open phone jack I had near my setup and all of my phones were working.
+
+Discounting the nightmare I encountered in transferring my number, we're really happy with the service so far. First off, it sounds great. I was hesitant about sound quality but it sounds as good or better than the previous land line. Second of all, it's cheap. We're doing the $15/mo. plan that gives us 500 minutes per month. Finally, you get a lot of features - call waiting, call forwarding, voice mail, you name it, all for $15. You can go unlimited for $25, I think, but we haven't talked enough on it to warrant the switch. All in all, it's a great service as long as you don't have to deal with customer service too often.

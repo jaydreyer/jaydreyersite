@@ -1,0 +1,15 @@
+---
+layout: post
+title: I Need a WMA->MP3 Converter...
+tags: []
+---
+I have a ton (around 50GB) of wma files on my pc and I want to convert them to mp3. Does anyone out there know of an easy to use tool that can do a big ol' batch conversion?
+
+I've found a lot of tools that will convert the files, and a few that do batch conversions, but I don't like how they do the batch conversions.
+
+What I want, and this is probably a pipe dream, is to just click on my "music" folder and have it go to work. Most of the batch programs I found had you open up each folder, select all of the files, and add them to a cue. If I only had a few folders to deal with, this wouldn't be a problem. But I've got something like 350 artists, who all have one or more sub-folders per album, so all of that clicking is a big pain.
+
+Just curious if there is a solution out there.
+
+*Update*
+I ended up using something called "Advanced WMA Workshop":http://www.litexmedia.com/ to do the conversion. I could not find an easy to use program in linux so I had to run it through Win XP. I had a couple pc's running non-stop for 3 days and it finally finished this morning. Now I have to re-build the Jinzora database and I should be good to go. Phew.

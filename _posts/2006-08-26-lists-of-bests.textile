@@ -1,0 +1,15 @@
+---
+layout: post
+title: Lists of Bests
+tags: []
+---
+!{float:right; margin:4px;}/images/52.jpg (Lists of Bests Screen Shot)!
+I stumbled upon a cool website the other day if you're as big into geeky "best of" lists as I am.
+
+It's called "Lists of Bests":http://www.listsofbests.com and it's free. It's fairly simple...people create "best-of" lists on the site that everyone can see. You search for a list that interests you and then you can start filling it out.
+
+For example, I am into "movie, book, and music lists":http://jaydreyer.com/lists/. If you search my site you'll find I've completed the AFI Top 100 American movies list, and I'm currently working on the Time Magazine top 100, as well as Roger Ebert's list of great movies. I've been maintaing the lists on my site on my own and it's kind of a pain. Now you can just go to "Lists of Bests":http://www.listsofbests, find a list and it will keep track of where you stand as far as completing it. 
+
+A nice feature of the site is that (usually) it will update other lists for you. How can I explain this...say you start filling out the AFI Top 100 films list. One of the movies on there is the Godfather. Well, as you can imagine, the Godfather is on a lot of "best of" lists. So, if you also decide to tackle the Time Magazine Top 100 list, the Godfather will already be checked off on it. I'd say this works about 90% of the time. It's pretty handy.
+
+You can work off of lists that people have created or you can make your own. There is a list for just about everything on there so check it out and see if there's one for you.

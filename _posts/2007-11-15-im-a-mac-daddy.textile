@@ -1,0 +1,12 @@
+---
+layout: post
+title: I'm a Mac Daddy
+tags: []
+---
+<txp:article_image />
+
+OK...so I gave up and joined the cult that is Mac. Maybe it was the commercials. Maybe it was the desire to be hip. Maybe it was Steve Jobs' turtlenecks. Whatever. I've given up and joined the Mac herd. That's right. Mr. Windows finally gave in to the dark side (or the good side) and swapped out Vista for Leopard. So far, no complaints, whatsoever. It's actually been WAY easier than I would have imagined, and the family is happy, as well. I just got tired of the nightly re-boots that Vista performed and threw in the towel. Just for safety's sake, I purchased VMWare Fusion so that I can run my old Vista image in the Mac. No problems with that, either. We're addicted to Microsoft Money so this allows us to keep using it. Other than Quicken, there aren't any alternatives to Money that are well regarded so we'll stick with it for a while.
+
+Like I said, there haven't been any problems with the Mac so far, and I haven't been able to find anything I could do on Vista that I can't do on the Mac (other than MS Money). There are some differences, but they haven't caused me any trouble, nor has DeAnne had any complaints (always the most important factor).
+
+Further sinking myself into the Apple cult, I also, finally, picked up an iPod Classic 160GB. Boo yeah. Every tune I own (90+ GB) is available to me now when I ride the bus into work. No more sitting there going, "Damn...I wish I could listen to Men at Work right now..." Problem solved. No complaints with it, either (although, it sounded like many folks have had problems with the iPod Classic...) Also, if you have a DMP that can play video, I highly recommend checking out <a href="http://www.theonion.com/content/video/">the Onion's videos</a>. Fantastic.

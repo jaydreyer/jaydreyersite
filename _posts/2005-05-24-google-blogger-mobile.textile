@@ -1,0 +1,6 @@
+---
+layout: post
+title: Google Blogger Mobile
+tags: []
+---
+I don't know when Google/Blogger released Blogger Mobile, but it is pretty neat. The idea is that you can take a picture on your cell phone, send it in a sms message to go@blogger.com, and then have it automatically posted to your blog. It works well, but I'm having a problem with the uploaded image path. When I send a picture, it gets posted to the blog here, but the path in the img tag is incorrect. If I update the post to fix the path, the image appears, as seen below. But, I can't find a way to do this automatically. If blogger would use a relative path instead of a fully qualified one, this wouldn't be an issue for me. I've sent blogger an email so we'll see what they have to say. I hope we find a solution because this is pretty cool.

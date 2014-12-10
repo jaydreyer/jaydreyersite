@@ -1,0 +1,12 @@
+---
+layout: post
+title: Upgrade Your Tivo
+tags: []
+---
+We have one of the original Tivo's - a Sony SVR-2000. Lately it has been acting strangely. The biggest problem was that it would freeze and the only way to get it working again would be to unplug it and plug it back in. After doing some research, it sounded like the hard drive was the culprit.
+
+I went to "TigerDirect":http://www.tigerdirect.com and ordered a new 160GB hard drive. After searching around, I found the "Hinsdale How-To site":http://www.newreleasesvideo.com/hinsdale-how-to/index9.html and went to work. My friend Joe also recommended "this site":http://tivo.upgrade-instructions.com/index.php, but I found the other one to be more helpful.
+
+The whole process wasn't too bad, as long as you're comfortable with taking apart both your Tivo and your computer. You need to understand how your hard/cd/dvd drives are hooked together in your system so that you can connect the new hard drive and the old Tivo drive. The process can be really quick if you don't need to save the shows that are currently on your drive. I needed to save mine so I did a direct copy from the old disk to the new. It took around 2 1/2 hours for the copy to finish and about 15 to put everything back together and the Tivo back in place.
+
+Once I finished the upgrade, my recording capacity went from 9 hours at high quality/30 hours at low to 45 hours at high, 150 at low. Now we can store an almost infinite amount of Elmo, Thomas, Clifford, General Hospital and whatever reality show my wife is into. I think I need my own Tivo...

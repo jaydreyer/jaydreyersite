@@ -1,0 +1,12 @@
+---
+layout: post
+title: Google Calendar is Available
+tags: []
+---
+!{float:right; margin:4px;}/images/40.gif (Google Calendar Beta)!
+
+I knew it would finally happen. I was checking my newsreader and came across a post from Google stating their new calendar service is up and running. At first glance, it's pretty cool. I was able to export my calendar from Outlook into Google in seconds. The only problem is that the times that display with the event are off by 2 hours. I guess that's a big problem. I have no idea why that is happening but I'll investigate.
+
+Anyway, it's easy to add events and share your calendar with others.  You can also allow others to add to your calendar (great if you're married...), set up invitations, create multiple calendars, be notified of events via sms, and other assorted goodies. There is even a feature (as I understand it) where you can easily add events that you receive in emails in your gmail account. Not sure how it works but I'll be interested in checking it out.
+
+Check it out at "http://www.google.com/calendar":http://www.google.com/calendar

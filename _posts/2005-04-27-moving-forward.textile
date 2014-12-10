@@ -1,0 +1,10 @@
+---
+layout: post
+title: Moving Forward
+tags: []
+---
+It looks like I've got the Blogger to XML thing working. I'm also using asp.net with xsl to generate the pages. Now it's time for some test posts to see how things work.
+
+Like if I put in 2 paragaraphs, will there be a break between them? There should be a space above this paragraphs.
+
+Here is another paragraph.

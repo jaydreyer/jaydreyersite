@@ -1,0 +1,30 @@
+---
+layout: post
+title: Squeezebox3 Network Music Player
+tags: []
+---
+!{float:right; margin:4px;}/images/19.jpg (Squeezebox3 Image)!:http://www.slimdevices.com
+
+I received my "Squeezebox3 network music player":http://www.slimdevices.com in the mail the other day and I've been so busy playing with it, I haven't had time to write about it until now. 
+
+What is it? At a basic level, it's a device the plugs into your stereo and plays music you have stored on a computer somewhere. I have around 450 cd's that I've ripped to mp3 and flac formats. These files are stored on a server that is running in my basement. In the past, I used Jinzora to play them in my house, but the sound always had to come through one of our computers. This meant the music had to be played through a cheap set of PC speakers instead of my home stereo.
+
+I've been looking into getting a player like this for a long time. A few years ago there was a device called the Audiotron by Turtle Beach. I never got around to purchasing it and now the device is no longer manufactured. Recently I discovered the Roku Soundbridge line of devices. These are pretty cool, and I was close to pulling the trigger, but there were a few things I didn't like about it, including the proprietary nature of the system. So, I kept looking and found the "Squeezebox v3 from SlimDevices":http://www.slimdevices.com. As usual, I did a ton of research on it and eventually determined it was my best bet.
+
+The Squeezebox v3 is the same as the v2 on the inside, it's just the outside that has been given a major overhaul. It looks nice. Really nice. My wife even agrees, which is a major bonus. Looks are nice, but it's the sound and ease of use that really matter and that's where the Squeezebox really shines.
+
+Setup was a snap. Slimdevices offers two versions of the device - a wired and a wireless version. The wireless version costs $299 while the wired costs $250. I went with the wired version because I had planned on moving a router upstairs, anyway. Since a port would be nearby, I decided to save the extra $50. I connected the device to my stereo via a toslink optical cable, plugged in the cat5 cable from the router, pushed a few buttons on the remote and I was in business. That was it. I couldn't believe how easy it was. [Keep in mind that I already installed the opensource slimserver software on my server and had ripped all of my cd's a few years ago - if you haven't done this already, you're in for some long hours of work! But, there are services that will rip CD's for you, including SlimDevices.]
+
+Now that the Squeezebox was plugged in and working what does it do? Well:
+* Plays mp3, wma, flac, aac, wav and Ogg Vorbis
+* Has a built in Burr-Brown DAC
+* Plays internet radio stations like Live365 and SHOUTcast
+* Has an alarm clock
+* Can use playlists
+* Plays nature sounds
+* Can synchronize with other Squeezeboxes or play independently
+* Browse and search for music by using the remote control and player or via SlimServer
+* Even play games!
+* There's more...these are just the highlights
+
+I could type for a long time about how much I love this thing but my fingers are starting to cramp up. Bottom line, it was easy to set up, looks good, sounds great, and is very easy to use. My wife was able to figure it out in no time, and she had never seen one before. If you're at all interested in digitizing your music and ditching your CDs and CD player get a Squeezebox.

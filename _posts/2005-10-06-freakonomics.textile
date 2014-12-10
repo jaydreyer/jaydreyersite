@@ -1,0 +1,10 @@
+---
+layout: post
+title: Freakonomics
+tags: []
+---
+<txp:asv_amazon asin="006073132X">
+<a href="asv_DetailPageURL"><img src="asv_MediumImageURL" alt="asv_Title"/><br />asv_Title</a>
+</txp:asv_amazon>
+
+I recently finished reading the book "Freakonomics" and I have to say I really enjoyed it.  I'm a big geek when it comes to this type of stuff so it wasn't a surprise. If you are not familiar with the book, the premise is that the authors use the fundamentals of economics to find the answers to a wide array of questions. Things like finding out if sumo wrestlers cheat, why real-estate agents don't always work for your best interests, the effects of abortion on the crime rate, the inner workings of south-side Chicago crack dealers, etc. It sounds crazy but it's a fascinating read and I highly recommend it.

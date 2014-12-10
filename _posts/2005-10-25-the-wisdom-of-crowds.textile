@@ -1,0 +1,16 @@
+---
+layout: post
+title: The Wisdom of Crowds
+tags: []
+---
+<txp:asv_amazon asin="0385503865">
+<a href="asv_DetailPageURL"><img src="asv_MediumImageURL"  alt="asv_Title"/><br />asv_Title</a>
+</txp:asv_amazon>
+
+By James Surowiecki
+
+I just finished this book the other night and I enjoyed it. The title is a little misleading because the book focuses more on "groups" as opposed to "crowds". The main point is that, in general, groups of diverse people can come up with better solutions than really smart individuals working by themselves. If you've recently taken some OB/HRM classes from your local business school, this should come as no surprise.
+
+One of the major points of the book is the importance of diversity within teams. Not diversity in the skin color sense, per se, but more in regard to education, previous work experience, problem solving approaches, etc. Along with diversity is the importance of dissent and independence of thought. Groups consisting of individuals who are not afraid of going against the grain or challenging the group's conventional wisdom will, in general, out-perform groups that focus on getting along. Working in these types of groups will not always be comfortable or completely enjoyable, but the results are worth it.
+
+The book is about 270 pages and is a quick read. Surowiecki uses many interesting examples to make his points and keep the book moving (driving in traffic, competing on TV game shows, maximizing stock market performance, voting for political candidates, navigating busy sidewalks, tracking SARS, etc.) Some have complained about overly scholarly language and too much business speak, but I did not find this to be the case. I'd give it 4 out of 5 stars. I should make some cool rating system or something. One of these days...

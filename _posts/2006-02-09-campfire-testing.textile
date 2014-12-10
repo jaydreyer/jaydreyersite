@@ -1,0 +1,16 @@
+---
+layout: post
+title: Campfire Testing...
+tags: []
+---
+!{float:right; margin:4px;}/images/30.gif (Campfire Logo)!
+
+"37signals":http://37signals.com opened up "Campfire":http://campfirenow.com/ this evening for some pre-release testing. If you don't know what it is, Campfire is 37signals' response to <acronym title="Instant Messaging">IM</acronym>. It sounds like they plan on releasing it some time next week.
+
+It was interesting, but nothing I'm dying to use at the moment -probably because I don't have a need, but that could change. In typical 37signals fashion, the interface was nice and clean. There aren't a lot of bells and whistles to it. People that you have invited to a conference all have a name and are displayed in a box in the upper right hand corner. The majority of the page contains the current conversation. Your name is highlighted in yellow, while others are in gray. You can upload files that can then be viewed by the conference members. As an example, I uploaded a text file. The section of the window containing the conversation displayed my files as an icon with a link. Clicking on the file icon (or the filename) launches it in another window (this depends on how you configured your browser, I'm assuming.) Someone uploaded an image and it displayed in the conversation. Clicking it displayed a full-size version in a new window. Others uploaded pdf files.
+
+You can't format your text as you type. I tried to use html and textile to format things and it didn't work. No emoticons, either. If you enter a hyperlink, this is correctly displayed in the conversation and people can click on it. That's about it. As I understand it, there is a feature to save the conversation so that you can all review it later, but it was unavailable during testing.
+
+I had a conversation with another tester about how this could be useful. The best reason we could come up with is that you don't have the distractions with Campfire that you get with other IM clients like MSN Messenger and the rest. You don't have buddies constantly popping up and sending you things. It's just the people you invited to the conference at that time. But, as others mentioned, you can get similar conference type features in other IM clients. We'll see. The folks at 37signals are master marketers (at least Jason Fried appears to be...) so they'll sell me on it shortly.
+
+As I said, it was neat, but I don't have a reason to use it yet. I'm sure when the need arises, I'll have an "a-ha!" moment and it will all click. I'm not there yet. I will say that this doesn't come close to their "Basecamp":http://basecamphq.com/ project-management product. That thing rocks. "Backpack":http://backpackit.com/ is cool but I've got a wiki on my site that has similar functionality. "Writeboard":http://www.writeboard.com/ is similar to Campfire in that I haven't had a reason to use it yet but it could be cool. Finally, as I wrap up plugging all of their products, "Ta-da List":http://tadalist.com/ is super-fun (and free!).

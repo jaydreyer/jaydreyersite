@@ -1,0 +1,8 @@
+---
+layout: post
+title: My del.icio.us Links
+tags: []
+---
+<script type="text/javascript" src="http://del.icio.us/feeds/js/kaline?title=my%20del.icio.us;icon;name;showadd"></script>
+<noscript><a href="http://del.icio.us/kaline">my del.icio.us</a></noscript>
+</p>

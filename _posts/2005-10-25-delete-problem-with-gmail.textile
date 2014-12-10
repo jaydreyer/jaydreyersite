@@ -1,0 +1,12 @@
+---
+layout: post
+title: Delete problem with GMail
+tags: []
+---
+I've been using Gmail for about a year now and I really like it. Having my email on-line is convenient, and I don't have to worry about synching with Outlook anymore. Plus, they give me so much space I never have to worry about attachment size or returned messages because my in-box is too full. The interface is nice, too.
+
+I have two minor issues with the service, however:
+# Messages in the Trash folder are supposed to be deleted every 30 days. In my experience, however, they are not. I don't know if there is a setting I missed or something. I sent GMail a note to see if they have a solution and I'm waiting to hear what they have to say. I did some searching on-line and found others with the same issue, but no fix.
+# GMail loves to cut off long messages. I really hate this. They say they do this to increase the response time of my email. Fine, but I should have the option to turn this off. I get some emails that are really long (status updates, reports, etc.). When I get to the bottom of the messages there is a note telling me the rest of it was cut-off. Ugh. GMail posted a work around, but it's not acceptable and doesn't work well with html email.
+
+Other than that, I like the service. And you can't beat the price! If you would like a gmail account, send me an <txp:email email="jay.dreyer@gmail.com" linktext="email"/>. It's still in beta but I can send out 100 invites or something like that. If nothing else, you can lock up a decent email address before all of the good ones are gone.

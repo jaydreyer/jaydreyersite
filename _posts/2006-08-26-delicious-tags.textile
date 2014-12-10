@@ -1,0 +1,7 @@
+---
+layout: post
+title: del.icio.us Tags
+tags: []
+---
+<script type="text/javascript" src="http://del.icio.us/feeds/js/tags/kaline?icon;size=12-35;color=87ceeb-0000ff;title=my%20del.icio.us%20tags;name;showadd"></script>
+</p>

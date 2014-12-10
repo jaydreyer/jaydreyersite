@@ -1,0 +1,6 @@
+---
+layout: post
+title: ESPN News Feeds
+tags: []
+---
+Got the ESPN RSS feed working today. I still need to work on the looks but it was pretty easy using asp.net and xsl. Some day I will get this all figured out.

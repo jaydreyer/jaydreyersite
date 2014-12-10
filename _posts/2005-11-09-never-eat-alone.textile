@@ -1,0 +1,20 @@
+---
+layout: post
+title: Never Eat Alone
+tags: []
+---
+<txp:asv_amazon asin="0385512058">
+<a href="asv_DetailPageURL"><img src="asv_MediumImageURL" alt="asv_Title" /><br />asv_Title</a>
+</txp:asv_amazon>
+
+By Keith Ferrazzi
+
+I wrapped up this book a couple of weeks ago but I haven't written anything about it yet because I'm really not sure what to say. 
+
+I'll start with a general overview. This purpose of the book is to teach the reader about networking. Social/career networking, to be more specific. As a person who definitely does not take advantage of this necessary skill, I picked up the book hoping to learn more. I did, but I didn't. This is where things get confusing. 
+
+The author of this book, Keith Ferrazzi, is a networking machine. The term 'networking machine', however,  might not be strong enough of a description. This guy lives, eats, breathes and sleeps networking.  While reading the book we learn that he used to work at Deloitte, then jumped to a dot-com startup and now runs Ferrazzi Greenlight (I'm probably missing a job here...), but you wonder how he had time to do any of those things.
+
+One of the major critiques about the book is the constant name-dropping. Ferrazzi seems to know just about everyone, and loves to run through the names of the CEOs, pols and other famous folks he has in his PalmPilot. It does get nauseating, but if you think about it, how could you write this book without it? If Ferrazzi doesn't mention the famous people, would you believe that his networking tips work? I wrote off the name-dropping complaint and chalked it up as a necessary evil.
+
+So, what did I get out of this? Well, networking is important. More important than I initially believed. Ferrazzi gives a few good tips, but out of nearly 300 pages, there are probably about 25 pages worth reading. One good section, I thought, dealt with conferences. I never get to attend these, but he did have some very good suggestions I'll use if I ever do. The book was short on actionable advice and long on stories. As I don't have any other books on this subject to offer, I'll have to tentatively recommend it if you're looking to learn more about networking. If you have any alternatives, post a comment.

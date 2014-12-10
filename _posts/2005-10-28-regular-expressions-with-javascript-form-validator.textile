@@ -1,0 +1,12 @@
+---
+layout: post
+title: Regular expressions with Javascript Form Validator
+tags: []
+---
+I'm using a script from "Javascript Coder":http://www.javascript-coder.com/html-form/javascript-form-validation.phtml that helps me validate some xhtml forms I've written for a project. I guess I could have done this all by hand, but if someone else already has the answer, I might as well use it.
+
+One of the features of the product (which is free, btw) is that you can use their built in validations, or you can pass in regular expressions. I was having a lot of trouble getting the regex function to work, until I finally figured out that the '\\' characters all have to be escaped. So, in essence, every '\\' has to be changed to '\\\\'. Once I did this, every regex expression worked.
+
+I submitted an email to JavaScript Coder but never recieved a reply. Hopefully this helps anyone out there who has run into the same problem.
+
+ *Update:* Prasanth from Javascript-Coder just replied to my email and verified that the problem was not escaping the backslashes. I think the biggest problem with all of this is that it's difficult to use '\\' in html. What I mean by that is if you just type in '\\', when the page is rendered you will see nothing. You have to type in '\\\\\\\\' to see '\\\\'. It gets confusing. Best advice is to always proof-read before you publish!

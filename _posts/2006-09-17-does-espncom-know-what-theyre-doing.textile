@@ -1,0 +1,11 @@
+---
+layout: post
+title: Does ESPN.com Know What They're Doing?
+tags: []
+---
+Bashing ESPN is a popular sport these days. A lot of my friends love to bag on it, even though they watch it religiously. I've got my own beefs with the station, but overall they're minor criticisms (for instance, how many Yankee-Red Sox games do we have to see?). I'm just happy to have sports 24/7. (Please spare me the "poker isn't a sport!", blah blah blah stuff.)
+
+Having said that, I do have a complaint with ESPN.com. Primarily, does anyone over there know what they're doing? Why does their web site go down every Sunday during the fall? Ahhh...football - fantasy football. ESPN has been hosting fantasy football since at least 1996, I believe - maybe a few years earlier or a year later. You would think that after all these years they would recognize that many people like to check on their fantasy football teams on Sundays. When many people check the same web site at the same time, it tends to crash, or at least slow to a crawl. The solution is to add more webservers to handle the load (actually, there are many, many solutions to the problem, most of them would bore you to tears.)
+
+I write this not because I'm mad I can't check on my fantasy teams - they both suck and I couldn't care less. I just find it funny that the last two weekends when I go to refresh the front page of ESPN.com, it just keeps clocking. Fortunately for me, yesterday's front page has a nice headline about Michigan stomping Notre Dame, so I really don't mind that the page won't refresh. 
+

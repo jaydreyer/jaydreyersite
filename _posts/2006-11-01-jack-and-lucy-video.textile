@@ -1,0 +1,7 @@
+---
+layout: post
+title: Jack and Lucy Video
+tags: []
+---
+I thought I'd hop on the YouTube bandwagon and create a clip to share here on the site. I just took some quick video of Lucy and Jack in the basement, edited it with Windows Movie Maker and uploaded it to YouTube. It's not the most exciting thing in the world, but if you haven't seen Jack and Lucy in a while (or ever), it serves its purpose.
+ <object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/DxYhNAqIv2o"></param><embed src="http://www.youtube.com/v/DxYhNAqIv2o" type="application/x-shockwave-flash" width="600" height="350"></embed></object>

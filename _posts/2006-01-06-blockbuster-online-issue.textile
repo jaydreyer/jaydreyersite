@@ -1,0 +1,15 @@
+---
+layout: post
+title: Blockbuster Online Issues
+tags: []
+---
+!{float:right; margin:4px;}/images/24.jpg (Blockbuster)!
+
+We've been using "Blockbuster Online":http://www.blockbuster.com for our movie rental service for close to a year now. Overall, we like it but I've got two major gripes:
+
+# We have received a lot of damaged discs since we started. They do a good job of shipping out a replacement as soon as I report the problem, but the number of damaged discs we receive is still too many, in my opinion. I've emailed them about this and their response is it's the USPS's fault. I'm not sure I buy that. If all the discs were cracked, then I'd blame the USPS. Most of the problems we run into are with scratches and for that I blame careless users and poor quality control at Blockbuster.
+# The other issue is the recommendations I get. I was bored one day so I went through and rated some of the movies I have seen to bolster my recs. After doing a few I took a look to see what Blockbuster thought I would like to see. Most of the suggestions were good, but more than a couple of the recommended films were things I had just finished rating. They stand out because films you have rated show your rating with yellow stars. Films you haven't seen show everyone's average rating in blue stars. I have no idea why movies I've rated are showing up in my recommended list. I emailed them about this and they didn't have an explanation. They said they would fix it, and they did, but now it's acting up again. This to me seems like an easy one to fix but it's something that should never happen to begin with.
+
+Other than those two minor issues, I don't have any complaints about the service. They raised the price on us a couple months ago but it's still a good deal when you factor in the 2 free in-store rentals you get every month. The selection is improving and the turnaround time is pretty good. No throttling like I've read Netflix does.
+
+One thing I wish Blockbuster would add that Netflix offers is the ability for every person in your family to have their own queue. Then they just rotate through the queues when it is time to ship a new one. As it stands now, I have to keep adjusting the queue to keep everyone happy.

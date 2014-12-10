@@ -1,0 +1,13 @@
+---
+layout: post
+title: IE CSS Problems
+tags: []
+---
+You know...you use Firefox long enough and you forget that there are still people out there using Internet Explorer. Such was the case with me when I started tinkering with the look of the site here. My xhtml validates, as does my css, but just because it's right doesn't mean it will work with IE.
+
+Our good friend Amy dropped an email today and said the site looked like garbage on IE. She didn't say it quite like that, but after I took a look, I concluded it looked like dog poop. I made some small changes, made sure everything validated and hit the refresh button in IE and voila! It works. I can't tell you what I did to make it work because I have no idea.
+
+So, thank you for the heads up, Amy. Now all of you IE users have no excuse not to visit my "Amazon store":http://www.jaydreyer.com/store and buy something.
+
+*Update*
+I really should have checked this sooner. Looking at my site stats, over 50% of the people who check out this site use Internet Explorer. Bad webmaster!

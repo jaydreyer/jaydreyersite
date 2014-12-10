@@ -1,0 +1,8 @@
+---
+layout: post
+title: Contact Jay
+tags: []
+---
+If you'd like to get in touch with me, drop a line, leave a comment, ask a question, send money, etc...
+
+<txp:zem_contact mailto="jay.dreyer@gmail.com" />

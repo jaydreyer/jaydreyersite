@@ -1,0 +1,13 @@
+---
+layout: post
+title: Finally...a Contact Page
+tags: []
+---
+It only took a year but I finally got around to adding a "contact page":/contact to this site. "Jakob Nielsen":http://useit.com would be so proud.
+
+So now you have no excuse for not writing.
+
+Other items coming soon:
+* A photo gallery
+* A store
+* ??? Any other suggestions? Other than interesting content? ;-)

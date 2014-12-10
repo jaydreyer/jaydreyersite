@@ -1,0 +1,6 @@
+---
+layout: post
+title: First Post&#8230;
+tags: []
+---
+This is the first post on my new blogger enabled web-site. I had grand visions of generating xml from blogger and then using xsl to transform everything...but right now there's no time to play. The look will change once I get a handle on all of these blogger tags.

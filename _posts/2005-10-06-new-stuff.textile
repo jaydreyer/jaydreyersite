@@ -1,0 +1,14 @@
+---
+layout: post
+title: New Stuff
+tags: []
+---
+I have been slacking as of late when it comes to updating the site here. September was a slow month of posting! Sorry to disappoint my 3 readers. I'm trying to pick up the pace in October.
+
+There are some new features here...the comments section and form have been cleaned up a little. I think they look nicer. I've also been working on the content on the right side of the screen. I've taken out some things and added others - including a link to my Amazon wishlist. Now you have no reason not to buy me something!  ;-)
+
+I also added a direct link to NewsGator. If you have an account with them (it's free), you can add my site to your news feed list by clicking the button. Then, whenever I submit a new post, you'll know it via NewsGator. It's pretty cool. I use it to keep up with about 15 different sites. Very handy.
+
+I've also been busy working on side projects. I'm making the web site for my brother-in-law's resort in Nicaragua. You can check out the progress at "http://www.straightblue.com/~local/":http://www.straightblue.com/~local/. Once we're finished with it, it will be accessible via www.localtreasureinternational.com. If you have any feedback on the overall appearance of the site, let me know. Just keep in mind it is not finished right now.
+
+Another thing I've been working on is helping two guys with their open source photo gallery products. One is called "zenphoto":http://www.zenphoto.org and the other is "photostack":http://www.photostack.org. I've been working with Noel from photostack a lot more than zenphoto, but I give feedback and bug reports to both. They are both really neat tools. I'm using zenphoto at the resort site I mentioned above and I'm testing photostack on this site (it's hidden right now...). If you are looking for this type of software for your site, I highly recommend both products. It's been a great learning experience for me, even if my contributions are minimal, at best.

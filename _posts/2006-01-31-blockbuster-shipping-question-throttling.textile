@@ -1,0 +1,14 @@
+---
+layout: post
+title: Blockbuster Shipping Question - Throttling???
+tags: []
+---
+!{float:right; margin:4px;}/images/24.jpg (Blockbuster)!
+
+Don't get me wrong, I still like Blockbuster online, but I'm curious about the logistics of their warehousing operations. I'll try to keep this simple...
+
+When I ship two movies back to Blockbuster, from the same mailbox, they arrive on different days. Say I send both out Tuesday morning. Wednesday morning they will notify me that they have received one of the films. Later that day, they'll ship out a new one. But what about the other one I mailed? Well, apparently they don't receive that one until the next day, or even later.
+
+The first time this happened I chalked it up to random effects of the postal service. It's happened 4 or 5 times since then, however, and it doesn't seem very random any more. I'm curious if Blockbuster is starting to implement the same type of "throttling feature":http://www.hackingnetflix.com/netflix/2005/02/netflix_custome.html Netflix likes to torture their hard-core customers with.
+
+Anyway, I'd love to learn about their processes and operations. Interesting stuff. If they are having logistic problems, maybe my "dad":http://dreyersolutions.com can help them out.

@@ -1,0 +1,14 @@
+---
+layout: post
+title: Bye-Bye Blogger...
+tags: []
+---
+It's a brand new era at JayDreyer.com. The days of Blogger are over, replaced by Textpattern. So far, so good. I was able to import all of my posts from Blogger using "these instructions":http://forum.textpattern.com/viewtopic.php?id=6906 without any trouble. After that, I found a "template":http://www.textgarden.org, made some tweaks and now I'm on my way.
+
+Comments are enabled now, so chip in if you want. I'll be curious to see if I'll be a victim of comment spam or not. I still have some work to do here but it already looks better than the old site.
+
+Along with ditching Blogger, I also ditched my home-brewed hosting system in favor of signing up with a real host provider. After a lot of research, I decided to go with "site5.com":http://www.site5.com. Last night was the first time I was able to log in so I'm still getting a feel for how everything works. Now I don't have to worry about the power going out, my son pressing the glowing blue power button, or my lack of skills as a server admin as reasons for my various sites not being available.
+
+Also new, along the lines of changing hosting providers, is my choice of operating system. I've made the switch from Windows 2000/2003 servers for my web stuff to Linux. I set up a test server at home and was amazed at the things I could do, although most of it is pretty basic to seasoned Linux pros. I'm now on the "LAMP stack":http://en.wikipedia.org/wiki/LAMP and so far it has been painless. The big plus is the amazing assortment of open source software that is available.
+
+That's it for now...I've got more sites to migrate.

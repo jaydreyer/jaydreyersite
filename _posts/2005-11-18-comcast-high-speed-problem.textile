@@ -1,0 +1,14 @@
+---
+layout: post
+title: Comcast High Speed Problem
+tags: []
+---
+!{float: right;margin: 4px;}/images/11.jpg (Linksys BEFCMU10 Cable Modem)!:http://www.amazon.com/exec/obidos/redirect?link_code=as2&amp;path=ASIN/B00005T6GZ&amp;tag=jaydreyer-20&amp;camp=1789&amp;creative=9325
+
+Comcast increased the speed of our Internet connection to 6 Mbps from 4 Mbps. The upgrade was supposed to happen a few months ago, but some undisclosed technical problem prevented it. About 2 weeks ago Comcast sent out an email notifying me that the increase had gone through and all I needed to do was unplug my cable modem, wait a few seconds, then plug it in. That's when the trouble started.
+
+After resetting the modem, I jumped out to a few sites that offer broadband speed checks. Time after time my connection speed kept clocking in at under 4 Mbps, actually, it was usually much closer to 3 Mbps than 4. I tried a number of things - keeping the modem unplugged longer, resetting my wireless router, my VOIP router and my switch. Nothing helped.
+
+I searched around the Internet to see if others were having the same problem. You might be thinking, "Why not just give Comcast technical support a call?" If you're thinking that, you must not have Comcast. Anyway, after multiple Google searches I finally found a forum where people with the "Linksys BEFCMU10 cable modem":http://www.amazon.com/exec/obidos/ASIN/B00005T6GZ/jaydreyer-20 (the one I have) were having the same problem. It turns out that there are different versions of this modem. Mine was version 1, which I guess could not handle the increase in speed. People with version 3 did not have this problem. I went to "TigerDirect":http://www.tigerdirect.com and ordered a new one for around $60. It turns out the problem I encountered has something to do with "DOCSIS 2.0":http://news.com.com/2100-1033-272710.html?legacy=cnet compatability. I have no idea what that means but evidently my new modem (same model number) takes care of the problem.
+
+After swapping out the modems, resetting my network and giving Comcast a call to update the MAC address, I'm happy to report the speed increase now works. Problems like this are exactly why I tell my Dad to pay the $3/mo and lease the modem from Comcast instead of buying his own. If he has a problem, he can just call Comcast and get a new modem.

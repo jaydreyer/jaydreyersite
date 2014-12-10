@@ -1,0 +1,17 @@
+---
+layout: post
+title: Remote Control Nirvana
+tags: []
+---
+After purchasing a new TV a couple weeks ago, my wife started complaining about the number of remotes we were accumulating. There is a remote for the TV, the Tivo, the A/V Receiver, the DVD player and the cable box. All of them were used in one way or another, and my wife could not figure out which one to use when. Combine the remote quandary with the hassle of switching inputs, modes, resolutions, etc., and I knew I had to find a better way to do all of this.
+
+Enter the "Harmony 676":http://www.logitech.com/index.cfm/products/detailsharmony/US/EN,CRID=2084,CONTENTID=9511 universal remote. !http://www.logitech.com/lang/images/0/5635.jpg!
+This thing is sweet on so many levels. First of all, you connect it to your computer via a USB connection. Then you log on to the Harmony web site where you answer some questions about your components and how they are selected. You select the brands, then enter the model numbers. The next step of the process allows you to set up "activities". There are three buttons near the top of the remote that correspond to these activities. One is for watching a movie, another is listening to music and the third is watching TV. So, for example, the "watch a movie" activity for me consists of: turning on the TV, setting the TV input to component 1, turning on the A/V receiver and setting it to 'DVD', and then turning on the DVD player. All of those steps are taken care of by one push of a button. Could this be done on another universal remote? Sure, but I don't think it would be as simple as it was with the Harmony.
+
+Now, I can control all of the devices mentioned above with one single remote. My wife tried it last night and was able to switch between watching a DVD and Tivo by pressing one button. She was impressed and pleased she doesn't have to remember all of the steps to get this to work.
+
+What else is cool about the remote? Well, for one, Harmony's customer support is fantastic. I had some trouble getting my inputs to select properly. One 10 minute call to their 866 number and the problem was solved. I didn't have to do anything except explain my problem. The tech was able to access my settings on-line and make the changes. All I had to do was click the synch button and I was in business.
+
+Also, because your settings are stored on-line, you don't have to worry about the batteries dying and losing your codes. Just synch it up and you are back to normal. This also comes in handy if you choose to upgrade to a newer model. You don't have to re-program the remote, just synch it up.
+
+I still have some fine-tuning to do - not all of the buttons I used on the various remotes are currently represented in my configuration. Making these changes is pretty easy using the web site, however. All in all, this is one of the best purchases I have made. Not having to create step by step instructions on how to watch a movie or use the Tivo, or spend 15 minutes teaching the babysitter which buttons to push and not to push makes this a fantastic investment. The family room is a lot less cluttered, too.

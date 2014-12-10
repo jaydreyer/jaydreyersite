@@ -1,0 +1,18 @@
+---
+layout: post
+title: Where is gCalendar?
+tags: []
+---
+Google just released "Google Analytics":http://www.google.com/analytics/index.html and "Google Base":http://base.google.com/base/about.html, but all I really want is gCalendar to go along with my gMail. Yahoo has a decent calendar available for free, but I don't want to deal with two separate systems - I'd like gCalendar to integrate with gMail.
+
+Does anyone out there have a clue if gCalendar will ever come in to existence? I have to believe it will, but I have no idea when. The sooner the better, as far as I'm concerned.
+
+Speaking of calendars, I desperately need something to organize this aspect of my life. I screwed up on an appointment yesterday (one day early...), I never know when birthdays are coming, and I'm always asking my wife, "When is this? When is that? We're going _where_ this weekend? Why didn't I know about that? Oh, you told me. D'oh." Etc.
+
+I guess my feature wish list would look something like:
+* Electronic - I don't want to deal with a bunch of paper, nor do I want to repeatedly enter the same things, or deal with the yearly, "I bought a new calendar so now it's time to copy over all the birthdays again" thing.
+* It should synch with gCalendar (ha!). OK. It should synch with some on-line thing-a-ma-bob so that it is easy for me to enter things. I don't use Outlook anymore, if that makes a difference.
+* If it could replace my cell phone, even better. The fewer gadgets I have to carry around, the better.
+* It should be easy to enter events through the device. My current cell phone has a calendar, but getting to it and typing in events is just too painful to do on a regular basis.
+
+That's about it. Any suggestions?

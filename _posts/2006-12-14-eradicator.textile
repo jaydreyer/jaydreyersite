@@ -1,0 +1,7 @@
+---
+layout: post
+title: Eradicator!
+tags: []
+---
+I can't stop. Here is the Eradicator. Kids in the Hall. Enjoy.
+ <object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/6b--i65Jmew"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/6b--i65Jmew" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>

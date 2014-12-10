@@ -1,0 +1,15 @@
+---
+layout: post
+title: Internet Explorer 7 available for Beta Testing...
+tags: []
+---
+!{float:right; margin:4px;}/images/27.gif (Internet Explorer 7)!
+
+Just found out that Microsoft has released a beta 2 preview of "Internet Explorer 7":http://www.microsoft.com/windows/ie/ie7/default.mspx. Perusing the feature table, it looks like it will have pretty much what you'd expect: tabbed browsing, increased security (ActiveX off by default), RSS feeds, CSS improvements...sounds like everything I get with "Firefox":http://www.getfirefox.com.
+
+I probably won't download and install this at this point. But, I will consider it when they release the final version. A few months ago I could not have cared less if Microsoft updated IE. Now, I'm slightly intrigued. Why? Well, Firefox, at least the 1.5 version I'm currently using, is turning out to be a massive CPU and memory hog. Googling the issue, I've found many others with the same problem but I have not found a solution. Just to give an example, sometimes my computer will slow to a crawl. I'll check the Task Manager and see Firefox pegging the CPU at 99% and taking up 250 MB of memory. What's up with that???
+
+InformationWeek has an "article about Firefox 1.5 issues":http://www.informationweek.com/news/showArticle.jhtml?articleID=175007152 where roughly 450 people contributed info about their problems. Interesting stuff. There is also "a Firefox 1.5 support forum topic":http://forums.mozillazine.org/viewtopic.php?t=354828&sid=c1ce4dab06b6e8c324339a8d69773290 that is collecting information and offers some suggestions on how to possibly correct the problem. It didn't work for me, but maybe it will for you. Finally, it sounds like Firefox will release the 1.5.0.1 upgrade that addresses the memory issue soon.
+*Update:* I just received the "1.5.0.1 update":http://www.mozilla.com/firefox/releases/1.5.0.1.html on 2/2/06. We'll see if that helps...
+
+Getting back to the main point of this rambling post...if you try out the IE7 beta, let us (all 6 readers) know!

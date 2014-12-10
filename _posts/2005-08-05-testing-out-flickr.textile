@@ -1,0 +1,13 @@
+---
+layout: post
+title: Testing Out Flickr
+tags: []
+---
+!{float: right; margin: 10px 0 10px 10px; clear:both}http://photos22.flickr.com/31503983_6a509f48fd_m.jpg(Testing Out Flickr)!
+New test to see if the clear:both helps out.
+
+Woo hoo! Changed the form so that there is a clear:both after the body but before the comments. The image is float:right so if there isn't enough text, the comment bar would cut the picture in half. Not pretty. 
+
+So, now I can post pix straight from the phone, and everything comes up xhtml valid. Very cool.
+
+By the way, this is a picture of Jack at Target a month or so ago. We were in the sporting goods section and he started putting everything on. That's a backwards batting helmet on his head and a tennis racket in his hands. DeAnne and I were looking at something while he was putting everything on. He came around the corner to show us.  Very funny stuff. I guess silly shots like this make having a camera on your phone worthwhile. At least that is what I told DeAnne...

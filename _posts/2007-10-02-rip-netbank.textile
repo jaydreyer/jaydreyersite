@@ -1,0 +1,10 @@
+---
+layout: post
+title: R.I.P, Netbank
+tags: []
+---
+!{float:right; margin:5px;}http://jaydreyer.com/images/56.gif!
+Hey! It's been a while. I'm still alive. Thanks for asking. Anyway, I arrived home from work on Friday to find out our bank of close to 10 years, Netbank, had been shut down by the FDIC. Huh? Is this 1929 or something? Will "George Bailey":http://en.wikipedia.org/wiki/It's_a_Wonderful_Life come out and tell me not to withdraw my money because it's in Mary's house and Fred's farm, etc? You can read more about the details "here":http://www.msnbc.msn.com/id/21039715/.
+
+We were locked out of the site over the weekend but it looks like we can get back into it now. It appears that ING has taken over the bank and our money is safe (FDIC insured means we're covered up to $100,000...I think we just make it under that cap.) No worries because we're now in the process of switching things over to Fidelity. We already had a bunch of stuff there, and this will let us consolidate some more. They actually have a "pretty sweet setup":http://personal.fidelity.com/products/checking/?bar=c where we get free checking, 3.5% interest, free checks, free bill pay, reimbursement of ATM fees and some other goodies. We'll see how it goes.
+

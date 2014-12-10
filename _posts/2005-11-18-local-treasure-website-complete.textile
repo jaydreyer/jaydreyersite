@@ -1,0 +1,12 @@
+---
+layout: post
+title: Local Treasure Website Complete!
+tags: []
+---
+!{float:right; margin:4px;}/images/12.jpg (Local Treasure International Screen-shot)!:http://www.localtreasureinternational.com
+
+I just wrapped up the "Local Treasure International":http://www.localtreasureinternational.com web-site for my sister and brother-in-law. It's a resort in Nicaragua - very cool. They are building bungalows, selling land and building furniture...not to mention you can go deep sea fishing or take a surfing charter.
+
+It took a lot longer to build than I thought it would, but in the end I think it looks pretty good and my clients seem happy. Take a look and let me know what you think. There is also a pretty cool photo gallery using "zenphoto":http://www.zenphoto.org where you can check out some of the amazing fish they've caught from their boat, Sancho. Very cool. 
+
+The site was built using "Textpattern 4.01":http://www.textpattern.com for the CMS.

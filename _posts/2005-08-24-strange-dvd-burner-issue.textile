@@ -1,0 +1,21 @@
+---
+layout: post
+title: Strange DVD Burner Issue
+tags: []
+---
+I have a Sony DRU 540A DVD burner that suddenly decided it didn't want to burn DVDs for me anymore. I had probably burned about 40-50 discs since January with nary a coaster but suddenly things changed. I called up Sony tech support after running their diagnostic tool and this is what they had me do:
+
+* First they had me try and use different media. No dice. Same problem.
+* Next, I called them back up and they had me do the following:
+** Make the drive a master by itself
+** Remove the Nero software I was using that was installed with the drive
+** Use Nero's "general clean tool" to do whatever it does...
+** Re-boot!
+** Reinstall the Nero Suite
+** D/L and install the Nero updates (1 and 2) from their web-site. The interesting note on this one is that they had me install update #2 first, then #1.
+
+I thought this was a bunch of bs and didn't think it would work at all. I went home last night, did everything they said, and now it works. Go figure.
+
+The only problem is that right now my Sony cd burner isn't connected because I have the dvd burner running on its own. I'll eventually get around to hooking it back up and seeing if they can play nicely together again. I have no idea why this suddenly happened, or which step from above fixed it, but it works. 
+
+So, hats off to Sony tech support and an apology for my lack of faith in their proposed solutions. Mmmmmm....crow.

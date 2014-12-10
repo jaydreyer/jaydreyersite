@@ -1,0 +1,8 @@
+---
+layout: post
+title: My Minneapolis Map
+tags: []
+---
+I made this Google Map so you could get an idea of where I am here in downtown Minneapolis. If you zoom out, you'll see some other markers, including one for our new house in Plymouth. Click on the markers for more information. I don't know if this works in Internet Explorer or not, but it definitely works with Firefox.
+<txp:output_form form="MiniMap" />
+ <div id="map" style="width:450px;height:450px"></div>
