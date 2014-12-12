@@ -9,7 +9,7 @@
 	skel.init({
 		reset: 'full',
 		breakpoints: {
-			global:		{ range: '*', href: '../css/style.css', containers: '100%', grid: { gutters: 50 }, viewport: { scalable: false } },
+			global:		{ range: '*', href: '/css/style.css', containers: '100%', grid: { gutters: 50 }, viewport: { scalable: false } },
 			desktop:	{ range: '641-', href: 'css/style-desktop.css' },
 			wide:		{ range: '1201-', href: 'css/style-wide.css' },
 			narrow:		{ range: '737-1200', href: 'css/style-narrow.css' },
