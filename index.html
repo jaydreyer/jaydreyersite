@@ -13,7 +13,7 @@ layout: default
 								<!-- Post -->
 								<article class="box post post-excerpt">
 									<header>
-										<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+										<h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
 									</header>
 									<div class="info">
 										<span class="date"><span class="month">{{ post.date | date: "%b" }}</span> <span class="day">{{ post.date | date: "%-d" }}</span><span class="year">, {{ post.date | date: "%Y" }}</span></span>
@@ -33,13 +33,13 @@ layout: default
 							<!-- Pagination -->
 								<div class="pagination">
 									{% if paginator.previous_page %}
-									<a href="{{ paginator.previous_page_path }}" class="button previous">Previous</a>
+									<a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="button previous">Previous</a>
 									{% else %}
 									<span class="button previous">Previous</span>
 									{% endif %}
 									<span class="active">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
 									{% if paginator.next_page %}
-									<a href="{{ paginator.next_page_path }}" class="button next">Next</a>
+									<a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="button next">Next</a>
 									{% else %}
 									<span class="button next">Next</span>
 									{% endif %}
