@@ -7,7 +7,7 @@
 (function($) {
 
 	skel.init({
-		prefix: '/jaydreyersite/css/',
+		prefix: 'jaydreyersite/css/',
 		reset: 'full',
 		breakpoints: {
 			global:		{ range: '*', href: 'style.css', containers: '100%', grid: { gutters: 50 }, viewport: { scalable: false } },
