@@ -7,15 +7,14 @@
 (function($) {
 
 	skel.init({
-		prefix: 'jaydreyersite/css/',
 		reset: 'full',
 		breakpoints: {
-			global:		{ range: '*', href: 'style.css', containers: '100%', grid: { gutters: 50 }, viewport: { scalable: false } },
-			desktop:	{ range: '641-', href: 'style-desktop.css' },
-			wide:		{ range: '1201-', href: 'style-wide.css' },
-			narrow:		{ range: '737-1200', href: 'style-narrow.css' },
-			narrower:	{ range: '737-1000', href: 'style-narrower.css' },
-			mobile:		{ range: '-736', href: 'style-mobile.css', containers: '100%!', grid: { collapse: true } }
+			global:		{ range: '*', href: 'jaydreyersite/css/style.css', containers: '100%', grid: { gutters: 50 }, viewport: { scalable: false } },
+			desktop:	{ range: '641-', href: 'jaydreyersite/css/style-desktop.css' },
+			wide:		{ range: '1201-', href: 'jaydreyersite/css/style-wide.css' },
+			narrow:		{ range: '737-1200', href: 'jaydreyersite/css/style-narrow.css' },
+			narrower:	{ range: '737-1000', href: 'jaydreyersite/css/style-narrower.css' },
+			mobile:		{ range: '-736', href: 'jaydreyersite/css/style-mobile.css', containers: '100%!', grid: { collapse: true } }
 		},
 		plugins: {
 			layers: {
